@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Can't say ( secret )**
 
-- 🌱 I’m currently learning **TypeScript, React Native, Chess**
+- 🌱 I’m currently learning **TypeScript, React Native**
 
 - 💬 Ask me about **react, react native**
 
